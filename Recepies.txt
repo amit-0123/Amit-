@@ -7,3 +7,5 @@ kheer
 pasta
 chiken
 bread
+Namkeen
+chocklets
